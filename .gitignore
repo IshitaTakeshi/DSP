@@ -18,3 +18,9 @@
 .dub
 docs.json
 __dummy.html
+
+# Vim
+*.sw[A-z]
+
+# Data
+*.txt
